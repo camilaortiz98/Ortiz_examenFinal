@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_crear_nuevo.xml" value="0.264" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_detallae.xml" value="0.24010416666666667" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_detalle.xml" value="0.25" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_editat.xml" value="0.25" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_favoritos.xml" value="0.25" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_lista.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_registar_pelicula.xml" value="0.4" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/activity_todos.xml" value="0.25" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/ddd.xml" value="0.14270833333333333" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/item_libros.xml" value="0.25" />
+        <entry key="..\:/Ciclo 2021-2/Videojuegos/Ortiz_VID_Final/app/src/main/res/layout/item_lis.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
